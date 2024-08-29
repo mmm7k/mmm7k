@@ -1,27 +1,19 @@
- <div align=center>
-
-![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=mmm7k&)
-
-## Introduction 🙌
-안녕하세요! 프론트엔드 개발자 김민수입니다.
-사용자 경험(UX)을 최우선으로 고려하며, 지속적인 피드백 수집과 분석을 통해
-서비스를 꾸준히 개선하는 것을 지향합니다.
-
-## Used tools & Skill 👀
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=Intellij-IDEA&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-
-
-## About me ✨
-
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@reactmonster/posts)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mmm7k&count_private=true&show_icons=true&theme=solarized-light)
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=mmm7k&animation=&fontColor=363636&fontSize=70" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 Introduction </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요! 프론트엔드 개발자 김민수입니다. 사용자 경험(UX)을 최우선으로 고려하며, 지속적인 피드백 수집과 분석을 통해 서비스를 꾸준히 개선하는 것을 지향합니다. </div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white">    
+          <img src="https://img.shields.io/badge/Recoil-0179f3?style=flat&logo=Recoil&logoColor=white">
+          <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white">
+          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=StyledComponents&logoColor=white">
+          </div>
+    </div>
+    
