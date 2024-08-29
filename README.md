@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요! 프론트엔드 개발자 김민수입니다. 사용자 경험(UX)을 최우선으로 고려하며, 지속적인 피드백 수집과 분석을 통해 서비스를 꾸준히 개선하는 것을 지향합니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요! 프론트엔드 개발자 김민수입니다.<br/> 사용자 경험(UX)을 최우선으로 고려하며, 지속적인 피드백 수집과 분석을 통해 서비스를 꾸준히 개선하는 것을 지향합니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
