@@ -18,4 +18,8 @@
        <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=StyledComponents&logoColor=white">
           </div>
     </div>
+       <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📞 Contact </h2> <br> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ya5656@naver.com </div> 
+    </div>
     
