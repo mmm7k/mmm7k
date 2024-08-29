@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=mmm7k&animation=&fontColor=363636&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=a0e9ee&height=240&text=mmm7k&animation=&fontColor=363636&fontSize=70" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 Introduction </h2>  
@@ -22,4 +22,5 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📞 Contact </h2> 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ya5656@naver.com </div> 
     </div>
+
     
